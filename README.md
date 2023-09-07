@@ -8,7 +8,7 @@ Machine learning basics using python programming language.
 ||[NumPy](https://github.com/anirudhnayak27/Machine-Learning-with-Python/tree/a6bee4c19dd669ad2bd0956b8962eede1b2cc625/Python/NumPy)|
 ||[Matplotlib](https://github.com/anirudhnayak27/Machine-Learning-with-Python/tree/ab5231d3d7c6674f80145db6e21e28b6dc787824/Python/Matplotlib)|
 |Regression |[Linear regression](https://github.com/anirudhnayak27/Machine-Learning-with-Python/tree/3f3b36f0878ac71eab0114e11f66bb5deebf19d7/Regression/Linear-regression)|
-||[Multivariate regression]([https://github.com/anirudhnayak27/Machine-Learning-with-Python/tree/3f3b36f0878ac71eab0114e11f66bb5deebf19d7/Regression/Multivariate-regression](https://github.com/anirudhnayak27/Machine-Learning-with-Python/tree/3d81cb1cdf434c855b5246f91cd92cd426b44f58/Regression/Multivariate-regression))|
+||[Multivariate regression](https://github.com/anirudhnayak27/Machine-Learning-with-Python/tree/e97ff0a2c301b222e95f509d054bd231b8093ad7/Regression/Multivariate-regression)|
 |Classification|[Logistic regression & SVM](https://github.com/anirudhnayak27/Machine-Learning-with-Python/blob/4487ce3b60ae83907142bea9604caf00a7376d66/Classification/Binary-classification.ipynb)|
 
 ## Contribution
